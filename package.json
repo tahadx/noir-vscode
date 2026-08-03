@@ -3,7 +3,7 @@
 	"displayName": "Noir",
 	"description": "A dark theme for Visual Studio Code.",
 	"version": "0.1.0",
-	"publisher": "taha",
+	"publisher": "tahasadough",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.75.0"
