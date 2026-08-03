@@ -21,7 +21,7 @@ Palette (`Ctrl+Shift+P`) → **Preferences: Color Theme** → select **Noir**.
 ```bash
 npm install -g @vscode/vsce
 vsce package
-code --install-extension noir-omarchy-0.1.0.vsix
+code --install-extension noir-omarchy-0.1.1.vsix
 ```
 
 ### From folder (dev)
