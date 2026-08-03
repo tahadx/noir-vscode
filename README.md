@@ -3,7 +3,7 @@
 ![Noir](icon.png)
 
 A dark theme for Visual Studio Code. Pure black background, warm grey text,
-muted gold accents.
+muted sage accents.
 
 ## Install
 
@@ -61,7 +61,7 @@ code --install-extension noir-omarchy-0.1.1.vsix
 | `string`   | `#aa9988` | Strings                 |
 | `type`     | `#777755` | Types, classes          |
 | `visual`   | `#333333` | Selection               |
-| `accent`   | `#a89a72` | Accent, focus, tags     |
+| `accent`   | `#8a9a7b` | Accent, focus, tags     |
 
 ## License
 
