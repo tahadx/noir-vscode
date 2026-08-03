@@ -1,7 +1,9 @@
 # Noir for Visual Studio Code
 
+![Noir](icon.png)
+
 A dark theme for Visual Studio Code. Pure black background, warm grey text,
-muted teal accents.
+muted gold accents.
 
 ## Install
 
@@ -11,8 +13,8 @@ muted teal accents.
 code --install-extension tahasadough.noir-omarchy
 ```
 
-Or search **Noir** in the Extensions view. Then open the Command Palette
-(`Ctrl+Shift+P`) → **Preferences: Color Theme** → select **Noir**.
+Or search **Noir Omarchy** in the Extensions view. Then open the Command
+Palette (`Ctrl+Shift+P`) → **Preferences: Color Theme** → select **Noir**.
 
 ### From source
 
@@ -59,7 +61,7 @@ code --install-extension noir-omarchy-0.1.0.vsix
 | `string`   | `#aa9988` | Strings                 |
 | `type`     | `#777755` | Types, classes          |
 | `visual`   | `#333333` | Selection               |
-| `accent`   | `#5f8787` | Accent, focus, tags     |
+| `accent`   | `#a89a72` | Accent, focus, tags     |
 
 ## License
 
