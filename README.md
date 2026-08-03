@@ -5,12 +5,21 @@ muted teal accents.
 
 ## Install
 
+### From the Marketplace
+
+```bash
+code --install-extension tahasadough.noir-omarchy
+```
+
+Or search **Noir** in the Extensions view. Then open the Command Palette
+(`Ctrl+Shift+P`) → **Preferences: Color Theme** → select **Noir**.
+
 ### From source
 
 ```bash
 npm install -g @vscode/vsce
 vsce package
-code --install-extension noir-0.1.0.vsix
+code --install-extension noir-omarchy-0.1.0.vsix
 ```
 
 ### From folder (dev)
