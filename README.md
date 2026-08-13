@@ -13,39 +13,6 @@ muted sage accents.
 code --install-extension tahasadough.noir-omarchy
 ```
 
-Or search **Noir Omarchy** in the Extensions view. Then open the Command
-Palette (`Ctrl+Shift+P`) → **Preferences: Color Theme** → select **Noir**.
-
-### From source
-
-```bash
-npm install -g @vscode/vsce
-vsce package
-code --install-extension noir-omarchy-0.1.1.vsix
-```
-
-### From folder (dev)
-
-1. `code --install-extension` doesn't work on folders; instead open the repo
-   in VS Code and press F5 (or run the "Extension Development Host" from the
-   Run and Debug panel) after adding a `.vscode/launch.json`:
-
-```json
-{
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "type": "extensionHost",
-      "request": "launch",
-      "name": "Launch Extension",
-      "args": ["--extensionDevelopmentPath=${workspaceFolder}"]
-    }
-  ]
-}
-```
-
-2. Select **Noir** from the color theme picker.
-
 ## Palette
 
 | Role       | Hex       | Used for                |
