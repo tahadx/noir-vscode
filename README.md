@@ -2,8 +2,8 @@
 
 ![Noir](icon.png)
 
-A dark theme for Visual Studio Code. Pure black background, warm grey text,
-muted sage accents.
+A dark theme for Visual Studio Code. Warm grey text, muted sage accents.
+Ships with two variants: **Noir** (pure black) and **Noir Dawn** (soft black).
 
 ## Install
 
@@ -12,6 +12,16 @@ muted sage accents.
 ```bash
 code --install-extension tahasadough.noir-omarchy
 ```
+
+Then open the Command Palette (`Ctrl+Shift+P`) and run
+"Preferences: Color Theme" to pick **Noir** or **Noir Dawn**.
+
+## Variants
+
+| Theme      | `bg`       | Description                        |
+| ---------- | ---------- | ---------------------------------- |
+| Noir       | `#000000`  | Pure black.                      |
+| Noir Dawn  | `#1c1c1c`  | Softer dark, easier on the eyes.   |
 
 ## Palette
 
