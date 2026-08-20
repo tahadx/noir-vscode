@@ -21,7 +21,7 @@ Then open the Command Palette (`Ctrl+Shift+P`) and run
 | Theme      | `bg`       | Description                        |
 | ---------- | ---------- | ---------------------------------- |
 | Noir       | `#000000`  | Pure black.                      |
-| Noir Dawn  | `#1c1c1c`  | Softer dark, easier on the eyes.   |
+| Noir Dawn  | `#1c1c1c`  | Softer dark.                       |
 
 ## Palette
 
